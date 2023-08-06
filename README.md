@@ -1,1 +1,1 @@
-# Projects
+# AI Course Projects
